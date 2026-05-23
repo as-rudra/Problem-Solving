@@ -3,7 +3,7 @@ using namespace std;
 int main(){
     int t;
     cin >> t;
-    int s[t];
+    int s[t*2];
     for(int i=0;i<t*2; i++){
         cin >> s[i];
     }
